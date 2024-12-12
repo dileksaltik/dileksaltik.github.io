@@ -1,0 +1,5 @@
+baseurl: "/"  # This is important since your repository is named "web"
+url: "https://dileksaltik.github.io"
+theme: jekyll-theme-minimal
+favicon: /assets/img/favicon.ico
+
